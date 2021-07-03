@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="connect">CONNECT</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="clear">clear</string>
+    <string name="send">Send</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="read">read</string>
+    <string name="todo">TODO</string>
+    <string name="append">Append...</string>
+    <string name="done">DONE</string>
+    <string name="ir_code_name">IR Code Name</string>
+    <string name="add_ir_code">Add IR Code</string>
+    <string name="ir_code_finder">IR code finder</string>
+    <string name="textview">TextView</string>
+    <string name="codes">Codes</string>
+    <string name="name">Name</string>
+    <string name="image">image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

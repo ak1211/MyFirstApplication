@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/page_1"
+        android:enabled="true"
+        android:icon="@android:drawable/btn_star"
+        android:title="Terminal" />
+    <item
+        android:id="@+id/page_2"
+        android:enabled="true"
+        android:icon="@android:drawable/btn_star_big_off"
+        android:title="bbbbb" />
+</menu>
