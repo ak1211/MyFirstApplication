@@ -9,7 +9,6 @@ class CustomProber {
         fun getCustomProber(): UsbSerialProber {
             val customTable = ProbeTable()
                 .addProduct(0x2886, 0x002f, CdcAcmSerialDriver::class.java)
-                .addProduct(0x2886, 0x802f, CdcAcmSerialDriver::class.java)
             return UsbSerialProber(customTable)
         }
     }
