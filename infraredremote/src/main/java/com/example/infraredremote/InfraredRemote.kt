@@ -140,7 +140,7 @@ sealed class InfraredLeader {
     data class Unknown(val markandspace: MarkAndSpace) : InfraredLeader()
 
     companion object {
-        // upper lower tolerance 0.2ms = 200us
+        // upper lower tolerance 0.3ms = 300us
         private fun typical(x: Microseconds) = withTolerance(300.micros, x)
 
         // H-level width, typical 3.4ms = 3400us
